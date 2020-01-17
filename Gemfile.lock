@@ -62,6 +62,7 @@ GEM
     bindex (0.8.1)
     bootsnap (1.4.5)
       msgpack (~> 1.0)
+    bootstrap_jt (0.1.0)
     builder (3.2.4)
     byebug (11.0.1)
     capybara (3.28.0)
@@ -238,6 +239,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap (= 1.4.5)
+  bootstrap_jt
   byebug (= 11.0.1)
   capybara (= 3.28.0)
   guard (= 2.15.0)
